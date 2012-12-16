@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples" Type="Folder" URL="/&lt;vilib&gt;/LabVIEW Hacker/LVH-Interface-for-Kinect/Examples">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="LVH-Interface-for-Kinect.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/LVH-Interface-for-Kinect/LVH-Interface-for-Kinect.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
